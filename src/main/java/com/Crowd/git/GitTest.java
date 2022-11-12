@@ -10,5 +10,7 @@ public class GitTest {
         System.out.println(j);
         j=200;
         System.out.println(j);
+        int k=300;
+        System.out.println(k);
     }
 }
