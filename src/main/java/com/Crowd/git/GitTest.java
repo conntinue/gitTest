@@ -8,5 +8,7 @@ public class GitTest {
         System.out.println("hello new git");
         int j=300;
         System.out.println(j);
+        j=200;
+        System.out.println(j);
     }
 }
